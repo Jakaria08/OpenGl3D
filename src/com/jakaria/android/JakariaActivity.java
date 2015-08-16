@@ -74,6 +74,7 @@ public class JakariaActivity extends Activity {
                 Toast.LENGTH_LONG).show();
             return;
         }
+        //test commit and change
 
         setContentView(glSurfaceView);
     }
