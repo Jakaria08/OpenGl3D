@@ -31,6 +31,7 @@ public class JakariaActivity extends Activity {
         glSurfaceView = new GLSurfaceView(this);
 
         // Check if the system supports OpenGL ES 2.0.
+        // Test
         ActivityManager activityManager = 
             (ActivityManager) getSystemService(Context.ACTIVITY_SERVICE);
         ConfigurationInfo configurationInfo = activityManager
