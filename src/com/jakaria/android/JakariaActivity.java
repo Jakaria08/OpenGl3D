@@ -22,7 +22,7 @@ public class JakariaActivity extends Activity {
      * Hold a reference to our GLSurfaceView
      */
     private GLSurfaceView glSurfaceView;
-    private boolean rendererSet = false;
+    //private boolean rendererSet = false;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
