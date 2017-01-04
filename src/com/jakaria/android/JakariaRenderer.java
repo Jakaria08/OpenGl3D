@@ -105,7 +105,7 @@ public class JakariaRenderer implements Renderer {
     				// if the points are counter-clockwise we are looking at the "front". If not we are looking at
     				// the back. OpenGL has an optimization where all back-facing triangles are culled, since they
     				// usually represent the backside of an object and aren't visible anyways.
-    				
+    				// Test
     				// Front face
     				-1.0f, 1.0f, 1.0f,				
     				-1.0f, -1.0f, 1.0f,
