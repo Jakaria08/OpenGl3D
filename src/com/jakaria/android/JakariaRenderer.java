@@ -106,6 +106,7 @@ public class JakariaRenderer implements Renderer {
     				// the back. OpenGL has an optimization where all back-facing triangles are culled, since they
     				// usually represent the backside of an object and aren't visible anyways.
     				
+    				//test
     				// Front face
     				-1.0f, 1.0f, 1.0f,				
     				-1.0f, -1.0f, 1.0f,
