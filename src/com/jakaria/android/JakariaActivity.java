@@ -6,6 +6,8 @@
  * We make no guarantees that this code is fit for any purpose. 
  * Visit http://www.pragmaticprogrammer.com/titles/kbogla for more book information.
 ***/
+
+// This comment is destined to be removed
 package com.jakaria.android;
 
 import android.app.Activity;
