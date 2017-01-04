@@ -45,7 +45,7 @@ import com.jakaria.android.R;
 import com.jakaria.android.util.LoggerConfig;
 import com.jakaria.android.util.ShaderHelper;
 import com.jakaria.android.util.TextResourceReader;
-
+//test
 public class JakariaRenderer implements Renderer {                       
     private static final String U_MATRIX = "u_Matrix";
     
