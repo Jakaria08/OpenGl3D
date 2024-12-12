@@ -6,8 +6,9 @@
  * We make no guarantees that this code is fit for any purpose. 
  * Visit http://www.pragmaticprogrammer.com/titles/kbogla for more book information.
 ***/
+//test
 package com.jakaria.android;
-
+//test1
 import android.app.Activity;
 import android.app.ActivityManager;
 import android.content.Context;
