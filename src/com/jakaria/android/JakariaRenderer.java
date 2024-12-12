@@ -6,6 +6,7 @@
  * We make no guarantees that this code is fit for any purpose. 
  * Visit http://www.pragmaticprogrammer.com/titles/kbogla for more book information.
 ***/
+//.........new comment
 package com.jakaria.android;
 
 import static android.opengl.GLES20.GL_COLOR_BUFFER_BIT;
