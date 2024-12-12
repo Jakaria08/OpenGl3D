@@ -76,7 +76,7 @@ public class JakariaRenderer implements Renderer {
 	
 	/** This will be used to pass in the light position. */
 	private int mLightPosHandle;
-	
+	//New comment
 	/** Size of the position data in elements. */
 	private final int mPositionDataSize = 3;	
 	
