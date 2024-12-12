@@ -1,3 +1,2 @@
 # OpenGl3D
-cse 13
-manik uddin
+OpenGL ES for an Android project.
