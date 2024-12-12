@@ -8,6 +8,8 @@
 ***/
 package com.jakaria.android;
 
+//test
+
 import static android.opengl.GLES20.GL_COLOR_BUFFER_BIT;
 import static android.opengl.GLES20.GL_FLOAT;
 import static android.opengl.GLES20.GL_LINES;
